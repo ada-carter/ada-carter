@@ -10,7 +10,6 @@
       </a>
     </td>
     <td>
-      https://github.com/atticus-carter/atticus-carter/raw/refs/heads/main/mothra.mp4
-    </td>
+![Mothra Video](https://github.com/atticus-carter/atticus-carter/raw/main/mothra.mp4)    </td>
   </tr>
 </table>
