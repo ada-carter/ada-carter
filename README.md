@@ -1,6 +1,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atticus-carter&bg_color=ffffff&color=000000&line=e000d1&point=399711&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-くコ:彡 
+くコ:彡
 
 <table>
   <tr>
@@ -10,6 +10,10 @@
       </a>
     </td>
     <td>
-![Mothra Video](https://github.com/atticus-carter/atticus-carter/raw/main/mothra.mp4)    </td>
+      <video width="320" height="320" controls>
+        <source src="https://github.com/atticus-carter/atticus-carter/raw/main/mothra.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
   </tr>
 </table>
