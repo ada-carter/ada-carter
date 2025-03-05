@@ -10,10 +10,7 @@
       </a>
     </td>
     <td>
-      <video width="1024" height="1024" controls>
-        <source src="mothra.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      https://github.com/atticus-carter/atticus-carter/raw/refs/heads/main/mothra.mp4
     </td>
   </tr>
 </table>
