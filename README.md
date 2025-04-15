@@ -11,7 +11,7 @@
       </a>
     </td>
     <td>
-      <img src="https://github.com/atticus-carter/atticus-carter/raw/main/mothra.gif" width="320" height="320" alt="Mothra GIF">
+      <img src="https://github.com/ada-carter/ada-carter/raw/main/mothra.gif" width="320" height="320" alt="Mothra GIF">
     </td>
   </tr>
 </table>
