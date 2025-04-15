@@ -15,3 +15,5 @@
     </td>
   </tr>
 </table>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ada-carter&layout=compact&langs_count=20)
